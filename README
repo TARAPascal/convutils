@@ -1,0 +1,11 @@
+ConvUtils
+=========
+
+Centimeters, inches, liters... Sometimes it's necessary to convert one measure to another and it is suitable to have something to help you. ConvUtils is the answer for you.
+
+Installation
+============
+
+1. Open the package "convutilspkg.lpk", in the dialog that opens, click in "Use >>" and "Add to Project";
+
+Enjoy!
