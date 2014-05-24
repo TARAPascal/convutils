@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <CONFIG>
   <Package Version="4">
     <PathDelim Value="\"/>
@@ -20,7 +20,7 @@
     </CompilerOptions>
     <Description Value="Centimeters, inches, liters... Sometimes it's necessary to convert one measure to another and it is suitable to have something to help you. ConvUtils is the answer for you."/>
     <License Value="Please see the LICENSE file."/>
-    <Version Release="1"/>
+    <Version Major="1"/>
     <Files Count="1">
       <Item1>
         <Filename Value="..\src\convutils.pas"/>
